@@ -33,12 +33,10 @@ Here are some ideas to get you started:
  ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Shakil-md-abdullah-al/count.svg)
 
-<div style="width: 1200px;">
-  <h1>📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakil-md-abdullah-al&theme=gotham&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-md-abdullah-al&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
