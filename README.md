@@ -9,7 +9,13 @@ I am a good problem solver and I solve problem in regular basis and commit them 
 I think I can do something special for my team and organization.
 I am an open-source Contributor and a web development addict.
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/) 
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/)
+  [![Facebook Profile](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/YourProfileLinkHere)
+  [![Facebook Page](https://img.shields.io/badge/Facebook%20Page-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/YourPageLinkHere)
+</p>
+
 
 
 <!--
