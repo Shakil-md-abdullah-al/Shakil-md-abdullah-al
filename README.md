@@ -40,22 +40,6 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shakil-md-abdullah-al&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-<!--
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shakil-md-abdullah-al&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="center">
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Shakil-md-abdullah-al&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-</div>
-
-<div align="center">
--->
-
 
 
 
