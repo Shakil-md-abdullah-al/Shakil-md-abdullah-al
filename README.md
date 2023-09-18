@@ -30,8 +30,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Visitor Count
+<div style="width:50%">
+ ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/Shakil-md-abdullah-al/count.svg)
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
