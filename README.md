@@ -1,13 +1,15 @@
 # Shakil-md-abdullah-al
 ## Who am I ?
-I am MD. Abdullah Al Shakil. I am an intern at BASIS -BITM under PHP with Laravel program. Through this program, I have a very good knowledge on font end development with bootstrap framework and back-end development with raw php along with Laravel framework. Also, I have completed a short training of WASDA -Workplace Skill Development Academy (Newzeland). Again, I am going with my 2 thesis in this time on medical imaging. The first one is on medical imaging and it is almost done. The second one is Anti-Money Laundering System using machine learning and deep learning.
+<div style="text-align: justify;">
+I am MD. Abdullah Al Shakil. I am an intern at BASIS - BITM under the PHP with Laravel program. Through this program, I have very good knowledge of front-end development with the Bootstrap framework and back-end development with raw PHP along with the Laravel framework. Also, I have completed short training at WASDA - Workplace Skill Development Academy (New Zealand). Again, I am going with my two theses at this time on medical imaging. The first one is on medical imaging, and it is almost done. The second one is Anti-Money Laundering System using machine learning and deep learning.
 
-I am ongoing with my graduation in Computer Science and Engineering (CSE) Bangladesh University of Business and Technology. I have completed my diploma in Web Design and Development from LEDP (Learning and Earning Development Project).
+I am ongoing with my graduation in Computer Science and Engineering (CSE) at Bangladesh University of Business and Technology. I have completed my diploma in Web Design and Development from LEDP (Learning and Earning Development Project).
 
-I am a good problem solver and I solve problem in regular basis and commit them in Github. Also, I have leadership quality. During my, thesis paper completions I lead my team and properly manage and instruct my team as along with my university projects. Again, I an easily adapt any things and take a very short time to learn new things.
+I am a good problem solver and I solve problems on a regular basis and commit them on Github. Also, I have leadership qualities. During my thesis paper completions, I lead my team and properly manage and instruct my team along with my university projects. Again, I can easily adapt to new things and take a very short time to learn new things.
 
-I think I can do something special for my team and organization.
-I am an open-source Contributor and a web development addict.
+I think I can do something special for my team and organization. I am an open-source Contributor and a web development addict.
+</div>
+
 ## 🌐 Social Links
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/)
