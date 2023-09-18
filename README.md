@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="text-align: left;">
-  <h2 style="width: max-content;">Visitor Count</h2>
+  <h2 style="width: 500px;">Visitor Count</h2>
   <img src="https://profile-counter.glitch.me/Shakil-md-abdullah-al/count.svg" alt="Visitor Count" />
 </div>
 
 <div style="text-align: left;">
-  <h1 style="width: max-content;">📊 GitHub Stats:</h1>
+  <h1 style="width:500px;">📊 GitHub Stats:</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakil-md-abdullah-al&theme=gotham&hide_border=false" alt="GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
