@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shakil-md-abdullah-al&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
