@@ -8,10 +8,9 @@ I am a good problem solver and I solve problem in regular basis and commit them 
 
 I think I can do something special for my team and organization.
 I am an open-source Contributor and a web development addict.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/) 
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 
 <!--
 **Shakil-md-abdullah-al/Shakil-md-abdullah-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,6 +53,5 @@ Here are some ideas to get you started:
  
 <div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/) 
+
  
