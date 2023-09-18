@@ -30,18 +30,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="width:50%">
- ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Shakil-md-abdullah-al/count.svg)
+<div style="text-align: left;">
+  <h2 style="width: max-content;">Visitor Count</h2>
+  <img src="https://profile-counter.glitch.me/Shakil-md-abdullah-al/count.svg" alt="Visitor Count" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-md-abdullah-al&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="text-align: left;">
+  <h1 style="width: max-content;">📊 GitHub Stats:</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakil-md-abdullah-al&theme=gotham&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shakil-md-abdullah-al&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<div style="text-align: left;">
+  <h2 style="width: max-content;">🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakil-md-abdullah-al&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 
 
 
