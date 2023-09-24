@@ -1,7 +1,7 @@
 # Shakil-md-abdullah-al
 ## Who am I ?
 <div style="text-align: justify;">
-I am MD. Abdullah Al Shakil. I am an intern at BASIS - BITM under the PHP with Laravel program. Through this program, I have very good knowledge of front-end development with the Bootstrap framework and back-end development with raw PHP along with the Laravel framework. Also, I have completed short training at WSDA - Workplace Skill Development Academy (New Zealand). Again, I am going with my two theses at this time on medical imaging. The first one is on medical imaging, and it is almost done. The second one is the Anti-Money Laundering System using machine learning and deep learning.
+I am MD. Abdullah Al Shakil. I am an intern at BASIS - BITM under the PHP with Laravel program. Through this program, I have very good knowledge of front-end development with the Bootstrap framework and back-end development with raw PHP along with the Laravel framework. Also, I have completed short training at WSDA - Workplace Skill Development Academy (New Zealand). Again, I am going with my two theses at this time on medical imaging. The first one is on medical imaging, and it is almost done. The second one is the Anti-Money Laundering System using machine learning and deep learning.</div>br>
 
 I am continuing with my graduation in Computer Science and Engineering (CSE) at Bangladesh University of Business and Technology. I have completed my diploma in Web Design and Development from LEDP (Learning and Earning Development Project).
 
