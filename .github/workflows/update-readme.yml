@@ -7,22 +7,21 @@ on:
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
 
       - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+        run: |
+          choco install jq
 
       - name: Fetch Recent Repositories
         run: |
-          curl -s https://api.github.com/users/shakil-md-abdullahal/repos?sort=created&per_page=3 | \
-          jq -r '.[] | "* [\(.name)](\(.html_url))"' > recent-repos.md
+          curl -s https://api.github.com/users/shakil-md-abdullahal/repos?sort=created&per_page=3 | jq -r '.[] | "* [\(.name)](\(.html_url))"' > recent-repos.md
 
       - name: Update README file
         run: |
-          sed -i '/<!--RECENT_REPOS_START-->/,/<!--RECENT_REPOS_END-->/{/<!--RECENT_REPOS_START-->/!{/<!--RECENT_REPOS_END-->/!d}}' README.md
-          sed -i '/<!--RECENT_REPOS_START-->/r recent-repos.md' README.md
+          powershell -Command "((Get-Content README.md) -replace '<!--RECENT_REPOS_START-->(.|\n)*<!--RECENT_REPOS_END-->', '<!--RECENT_REPOS_START-->' + (Get-Content recent-repos.md) + '<!--RECENT_REPOS_END-->') | Set-Content README.md"
 
       - name: Commit and push if changed
         run: |
