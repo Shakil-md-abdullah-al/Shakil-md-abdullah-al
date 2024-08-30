@@ -16,7 +16,7 @@ jobs:
 
       - name: Fetch Recent Repositories
         run: |
-          curl -s https://api.github.com/users/your-github-username/repos?sort=created&per_page=3 | \
+          curl -s https://api.github.com/users/shakil-md-abdullahal/repos?sort=created&per_page=3 | \
           jq -r '.[] | "* [\(.name)](\(.html_url))"' > recent-repos.md
 
       - name: Update README file
