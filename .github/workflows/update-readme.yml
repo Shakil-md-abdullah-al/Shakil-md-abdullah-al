@@ -1,0 +1,27 @@
+name: Update README with recent repositories
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Runs every Monday at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          curl -s https://api.github.com/users/your-github-username/repos?sort=created&per_page=3 | \
+          jq -r '.[] | "* [\(.name)](\(.html_url))"' > recent-repos.md
+      - name: Update README file
+        run: |
+          sed -i '/<!--RECENT_REPOS_START-->/,/<!--RECENT_REPOS_END-->/{/<!--RECENT_REPOS_START-->/!{/<!--RECENT_REPOS_END-->/!d}}' README.md
+          sed -i '/<!--RECENT_REPOS_START-->/r recent-repos.md' README.md
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update recent repositories" || echo "No changes to commit"
+          git push
