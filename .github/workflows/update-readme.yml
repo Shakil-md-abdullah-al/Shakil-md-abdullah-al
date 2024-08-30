@@ -12,16 +12,17 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install jq
-        run: |
-          choco install jq -y
+        run: choco install jq -y
 
       - name: Fetch Recent Repositories
         run: |
           curl -s https://api.github.com/users/shakil-md-abdullahal/repos?sort=created&per_page=3 | jq -r '.[] | "* [\(.name)](\(.html_url))"' > recent-repos.md
+          type recent-repos.md  # Debug: output the contents of the recent-repos.md file
 
       - name: Update README file
         run: |
           powershell -Command "((Get-Content README.md) -replace '<!--RECENT_REPOS_START-->.*<!--RECENT_REPOS_END-->', '<!--RECENT_REPOS_START-->' + (Get-Content recent-repos.md) + '<!--RECENT_REPOS_END-->') | Set-Content README.md"
+          type README.md  # Debug: output the updated README.md file
 
       - name: Commit and push if changed
         run: |
