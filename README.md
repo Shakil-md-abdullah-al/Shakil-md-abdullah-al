@@ -44,12 +44,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Shakil-md-abdullah-al&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shakil-md-abdullah-al&theme=gotham&hide_border=false)<br/>
 
-## 📂 Recent Repositories
-
-<!--RECENT_REPOS_START-->
-<!--RECENT_REPOS_END-->
-
-
 
 
 
